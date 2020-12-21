@@ -1,16 +1,33 @@
-### Hi there 👋
-
-<!--
-**FreakyTorial/FreakyTorial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <p align="center">
+      <a href="https://github.com/FreakyTorial">
+        <img align="center" alt="FreakyTorial" src="https://avatars2.githubusercontent.com/u/22994588?s=100&v=4">
+      </a>
+      <br>
+      <br>
+      Hi there 👋 I'm Max aka FreakyTorial.
+      <br>
+      You found my profile... so here some informations about me.
+    </p>
+</div>
+<p>
+  <br>
+- 💼 I'm a application development trainee from germany.
+  <br>
+- 📄 I code in C#, Java and Delphi
+  <br>
+- 🖥️ Developing in Visual Studio, Eclipse and Embarcadero Rad Studio
+  <br>
+- 👯 Developing agile with SCRUM or Kanban
+  <br>
+- 🔭 Here i’m currently working on multiple projects for the Spigot-Api.
+  <br>
+- ✨I also like drawing, video games and nature
+  <br>
+- 📫 How to reach me: freakytorial@gmail.com
+  <br>
+- 😄 Pronouns: He/Him
+  <br>
+- ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories
+  <br>
+</p>
